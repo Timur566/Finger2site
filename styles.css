@@ -1,0 +1,19 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 20px;
+  color: #2c3e50;
+}
+
+.container {
+  width: 780px;
+  margin: 2em auto;
+}
+
+img {
+  width: 100%;
+}
+
+#background {
+    background: url("https://www.w3schools.com/w3images/forestbridge.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
